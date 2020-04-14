@@ -1,5 +1,11 @@
-CREATE TABLE users
+CREATE TABLE users (
+  
+);
 
-CREATE TABLE projects
+CREATE TABLE projects (
+  
+);
 
-CREATE TABLE pledges 
+CREATE TABLE pledges (
+  
+);
